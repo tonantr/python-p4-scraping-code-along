@@ -4,7 +4,7 @@
 
 - Scrape a web page's HTML using Beautiful Soup.
 - Use scraped data to give attributes to Python objects.
-- Write an object oriented Scraper class.
+- Write an object oriented Scraper class...
 
 ***
 
